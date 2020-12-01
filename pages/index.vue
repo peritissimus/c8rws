@@ -1,6 +1,22 @@
 <template>
-  <div>
-    <h1>Hello Nuxters! 👋</h1>
-    <p>default page transition</p>
+<div>
+  <Header/>
+  <div class = "container">
+  <div class="page">
+    <div class="section-1">
+      <
+    </div>
+    <div class="section-2">
+
+    </div>
+
   </div>
+  </div>
+</div>
 </template>
+
+<script>
+export default {
+
+}
+</script>
