@@ -6,7 +6,7 @@
 <style>
 
 html{
-  font-family: 'Futura';
+  font-family: 'Source Sans Pro';
 }
 
 .page-enter-active,
@@ -68,6 +68,10 @@ html{
 }
 
 body {
+  margin: 0;
+}
+
+div{
   margin: 0;
 }
 
